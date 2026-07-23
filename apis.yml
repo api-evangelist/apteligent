@@ -1,8 +1,26 @@
 aid: apteligent
-name: Apteligent *
-description: 'Apteligent * is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment
-  pipeline.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/apteligent.png
+name: Apteligent
+description: 'Apteligent (originally Crittercism, founded 2011 by Andrew Levy, Robert Kwok, and Jeeyun
+  Kim, rebranded to Apteligent in 2016) was a mobile application performance management platform that
+  provided real-time crash reporting, diagnostics, service monitoring, and user-engagement analytics
+  across iOS, Android, hybrid, and HTML5 apps. Backed by GV (Google Ventures), Opus Capital, and Shasta
+  Ventures (~$48.7M raised), the company was acquired by VMware on 2017-05-15 and folded into the Workspace
+  ONE digital-workspace platform. Following VMware''s 2024 end-user-computing spin-off, the technology now
+  ships under the Omnissa Intelligence brand. The independent Apteligent developer surface has been retired:
+  apteligent.com no longer resolves at the apex and www.apteligent.com 301-redirects to omnissa.com; there
+  is no live standalone API, documentation, or developer portal to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/apteligent/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +28,31 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-status-detail: 'Acquired by VMware 2017-05-15; folded into Workspace ONE; now Omnissa Intelligence after
+  VMware''s 2024 EUC spin-off. Independent developer surface retired (apteligent.com redirects to omnissa.com).'
+x-former-name: Crittercism
+x-successor: omnissa
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Enterprise
+- Mobile
+- Application Performance Monitoring
+- Crash Reporting
+- Mobile Analytics
+- Acquired
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
