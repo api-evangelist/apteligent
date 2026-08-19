@@ -33,7 +33,7 @@ x-status-detail: 'Acquired by VMware 2017-05-15; folded into Workspace ONE; now 
   VMware''s 2024 EUC spin-off. Independent developer surface retired (apteligent.com redirects to omnissa.com).'
 x-former-name: Crittercism
 x-successor: omnissa
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
