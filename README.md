@@ -1,4 +1,4 @@
-# Apteligent *
+# Apteligent
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Apteligent * is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: gv
+Apteligent (originally Crittercism, founded 2011 by Andrew Levy, Robert Kwok, and Jeeyun Kim, rebranded to Apteligent in 2016) was a mobile application performance management platform that provided real-time crash reporting, diagnostics, service monitoring, and user-engagement analytics across iOS, Android, hybrid, and HTML5 apps. Backed by GV (Google Ventures), Opus Capital, and Shasta Ventures (~$48.7M raised), the company was acquired by VMware on 2017-05-15 and folded into the Workspace ONE digital-workspace platform. Following VMware's 2024 end-user-computing spin-off, the technology now ships under the Omnissa Intelligence brand. The independent Apteligent developer surface has been retired: apteligent.com no longer resolves at the apex and www.apteligent.com 301-redirects to omnissa.com; there is no live standalone API, documentation, or developer portal to enrich.
+
+**Areas:** Company · Enterprise · Mobile · Application Performance Monitoring · Crash Reporting · Mobile Analytics · Acquired · Defunct
+
+## Apteligent on APIs.io (historical record)
+
+Everything profiled for Apteligent is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apteligent/](https://apis.io/providers/apteligent/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Apteligent: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apteligent/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
